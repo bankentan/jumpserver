@@ -1,6 +1,6 @@
 ## Jumpserver 多云环境下更好用的堡垒机
 
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=jumpserver)
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=jumpserver)1
 ![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=jumpserver)
 [![Python3](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/django-2.1-brightgreen.svg?style=plastic)](https://www.djangoproject.com/)
